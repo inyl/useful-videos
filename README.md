@@ -37,3 +37,5 @@ Pull Request는 언제든지 환영합니다!!
 * [Kevin Lee](https://www.youtube.com/channel/UCsOJxLxzQl8IbwGS-Cp5t8w/videos) - Kevin Lee Youtube 채널. Scala, Elm, Docker등
 * [Kenu Heo](https://www.youtube.com/user/heogwangnam/videos) - okky.kr 운영자인 Kenu님의 강의 Youtube 채널, Java, Node.js 기타 등등
 * [i am programmer](https://www.youtube.com/channel/UCPyG8NHkMhr4Ouow7on_CPw/videos) - 나는 프로그래머다 Official Youtube 채널
+* [백명석](https://www.youtube.com/user/codetemplate/videos) - 클린 코더스 강의
+* [한빛미디어](https://www.youtube.com/user/HanbitMedia93/videos) - 나프콘
