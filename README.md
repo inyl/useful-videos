@@ -17,6 +17,9 @@ Pull Request는 언제든지 환영합니다!!
 ## Cloud
 * [AWS Korea](https://www.youtube.com/user/AWSKorea/videos) - AWS Korea 동영상 강의
 
+## C
+* [스무디TV](https://www.youtube.com/user/tmanelshrghk/videos) - C, Win32, 어셈블리
+
 ## Machine Learning
 * [Terry TaeWoong Um](https://www.youtube.com/user/TerryTaewoongUm/videos) - 머신러닝에 대한 기본 설명 강좌 Youtube 채널
 * [Sung Kim](https://www.youtube.com/user/hunkims/videos) - 머신러닝, 딥러닝, Tensorflow등의 강좌 동영상 Youtube 채널
@@ -27,6 +30,9 @@ Pull Request는 언제든지 환영합니다!!
 * [KSUG](https://www.youtube.com/channel/UC-SodiX9165KqWzIj8H-OLQ/videos) - Korea Spring User Group
 * [SpringDeveloper](https://www.youtube.com/user/SpringSourceDev/videos) - Sprig Official Youtube 채널 :us:
 * [JavaBrain](https://www.youtube.com/user/koushks/videos) - Java, Spring :us:
+
+## javascript
+* [velopert](https://www.youtube.com/channel/UCmMgRlN-3GKQ_CH7cOtLdvg/videos) - React.js, node.js
 
 ## Python
 * [Pycon KR](https://www.youtube.com/channel/UC26x6D5xpKx6io4ShfXa_Ow) - 파이썬 컨퍼런스 파이콘 동영상들 Youtube 채널
