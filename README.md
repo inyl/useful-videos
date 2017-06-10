@@ -23,6 +23,9 @@ Pull Request는 언제든지 환영합니다!!
 ## C
 * [스무디TV](https://www.youtube.com/user/tmanelshrghk/videos) - C, Win32, 어셈블리
 
+## C#
+* [visual academy](https://www.youtube.com/user/visualacademy/videos) - ASP.net, Angularjs4, C# 기초 강좌
+
 ## Machine Learning
 * [Terry TaeWoong Um](https://www.youtube.com/user/TerryTaewoongUm/videos) - 머신러닝에 대한 기본 설명 강좌 Youtube 채널
 * [Sung Kim](https://www.youtube.com/user/hunkims/videos) - 머신러닝, 딥러닝, Tensorflow등의 강좌 동영상 Youtube 채널
