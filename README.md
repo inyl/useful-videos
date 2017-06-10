@@ -44,6 +44,9 @@ Pull Request는 언제든지 환영합니다!!
 ## Python
 * [Pycon KR](https://www.youtube.com/channel/UC26x6D5xpKx6io4ShfXa_Ow) - 파이썬 컨퍼런스 파이콘 동영상들 Youtube 채널
 
+## Search Engine
+* [Elasticsearch](https://www.youtube.com/user/elasticsearch/videos) - Elasticsearch Official 채널 :us:
+
 ## etc
 * [김포프](https://www.youtube.com/user/KimPopeTV/videos) - 김포프 Youtube 채널.
 * [생활코딩](https://www.youtube.com/user/egoing2/videos) - 생활코딩 Youtube 채널
@@ -54,7 +57,7 @@ Pull Request는 언제든지 환영합니다!!
 * [백명석](https://www.youtube.com/user/codetemplate/videos) - 클린 코더스 강의
 * [Na Dongbin](https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw/videos) - C, Java, Android, After Effect 기초
 * [한빛미디어](https://www.youtube.com/user/HanbitMedia93/videos) - 나프콘, 기타 교재용 강좌 동영상
-* [i am programmer](https://www.youtube.com/channel/UCPyG8NHkMhr4Ouow7on_CPw/videos) - 나는 프로그래머다 Official Youtube 채널
+* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/videos) - 웹개발 관련된 이것저것 기술들 모음 :us:
 
 ## 외부 강좌사이트
 * [inflearn](https://www.inflearn.com/all-courses2/) 프로그래밍관련 종합 강좌 사이트. 유/무료 :moneybag:
