@@ -16,6 +16,7 @@ Pull Request는 언제든지 환영합니다!!
 
 ## Android
 * [이지스 퍼블리싱](https://www.youtube.com/user/easyspub/videos) - 안드로이드 앱 프로그래밍
+* [Android Developers](https://www.youtube.com/user/androiddevelopers) - Android official channel :us:
 
 ## Cloud
 * [AWS Korea](https://www.youtube.com/user/AWSKorea/videos) - AWS Korea 동영상 강의
@@ -40,6 +41,8 @@ Pull Request는 언제든지 환영합니다!!
 
 ## javascript
 * [velopert](https://www.youtube.com/channel/UCmMgRlN-3GKQ_CH7cOtLdvg/videos) - React.js, node.js
+* [The Coding Train](https://www.youtube.com/user/shiffman) - p5.js, d3.js :us:
+
 
 ## Python
 * [Pycon KR](https://www.youtube.com/channel/UC26x6D5xpKx6io4ShfXa_Ow) - 파이썬 컨퍼런스 파이콘 동영상들 Youtube 채널
