@@ -63,6 +63,7 @@ Pull Request는 언제든지 환영합니다!!
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/videos) - 웹개발 관련된 이것저것 기술들 모음 :us:
 * [GDG Korea](https://www.youtube.com/channel/UCu3QGcALTC0FuXMma_dpK0A/playlists) - Google Developer Group Korea 발표자료 모음
 * [DEVIEW 2016](https://deview.kr/2016/schedule) - Deview 2016
+* [NAVER Engineering](http://tv.naver.com/naverd2/playlists) - NAVER Engineering
 
 ## 외부 강좌사이트
 * [inflearn](https://www.inflearn.com/all-courses2/) 프로그래밍관련 종합 강좌 사이트. 유/무료 :moneybag:
