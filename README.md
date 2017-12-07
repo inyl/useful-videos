@@ -64,6 +64,7 @@ Pull Request는 언제든지 환영합니다!!
 * [GDG Korea](https://www.youtube.com/channel/UCu3QGcALTC0FuXMma_dpK0A/playlists) - Google Developer Group Korea 발표자료 모음
 * [DEVIEW 2016](https://deview.kr/2016/schedule) - Deview 2016
 * [NAVER Engineering](http://tv.naver.com/naverd2/playlists) - NAVER Engineering
+* [Inflearn](https://www.youtube.com/channel/UC0Y0T9JpgIBbyGDjvy9PbOg/videos) - 인프런 유튜브 채널
 
 ## 외부 강좌사이트
 * [inflearn](https://www.inflearn.com/all-courses2/) 프로그래밍관련 종합 강좌 사이트. 유/무료 :moneybag:
