@@ -43,6 +43,7 @@ Pull Request는 언제든지 환영합니다!!
 ## javascript
 * [velopert](https://www.youtube.com/channel/UCmMgRlN-3GKQ_CH7cOtLdvg/videos) - React.js, node.js
 * [The Coding Train](https://www.youtube.com/user/shiffman) - p5.js, d3.js :us:
+* [Frontend Developer Love](https://www.youtube.com/channel/UC1nBp6ouBB1o5P8YvPznPOw/videos) - Frontend Developer Love :us:
 
 
 ## Python
