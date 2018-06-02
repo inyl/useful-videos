@@ -45,9 +45,11 @@ Pull Request는 언제든지 환영합니다!!
 * [The Coding Train](https://www.youtube.com/user/shiffman) - p5.js, d3.js :us:
 * [Frontend Developer Love](https://www.youtube.com/channel/UC1nBp6ouBB1o5P8YvPznPOw/videos) - Frontend Developer Love :us:
 
-
 ## Python
 * [Pycon KR](https://www.youtube.com/channel/UC26x6D5xpKx6io4ShfXa_Ow) - 파이썬 컨퍼런스 파이콘 동영상들 Youtube 채널
+
+## Algorithm
+* [엔지니어대한민국](https://www.youtube.com/user/damazzang/videos) - 알고리즘 & 자료구조
 
 ## Search Engine
 * [Elasticsearch](https://www.youtube.com/user/elasticsearch/videos) - Elasticsearch Official 채널 :us:
