@@ -47,6 +47,7 @@ Pull Request는 언제든지 환영합니다!!
 
 ## Python
 * [Pycon KR](https://www.youtube.com/channel/UC26x6D5xpKx6io4ShfXa_Ow) - 파이썬 컨퍼런스 파이콘 동영상들 Youtube 채널
+* [나도코딩](https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw/featured) - 파이썬 코딩 기초강좌 및 코딩 퀴즈
 
 ## Algorithm
 * [엔지니어대한민국](https://www.youtube.com/user/damazzang/videos) - 알고리즘 & 자료구조
