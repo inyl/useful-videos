@@ -66,6 +66,7 @@ Pull Request는 언제든지 환영합니다!!
 * [GDG Korea](https://www.youtube.com/channel/UCu3QGcALTC0FuXMma_dpK0A/playlists) - Google Developer Group Korea 발표자료 모음
 * [Code On The Beach](https://www.youtube.com/user/codeonthebeach/videos) - 플로리다 소프트웨어 엔지니어 컨퍼런스 :us:
 * [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/videos) - 자바, 안드로이드, HTML5 커뮤니티 컨퍼런스 :us:
+* [if(kakao)](https://tv.kakao.com/channel/3693125/video) - 카카오 개발자 컨퍼런스
 
 ## etc
 * [김포프](https://www.youtube.com/user/KimPopeTV/videos) - 김포프 Youtube 채널.
