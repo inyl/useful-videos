@@ -85,7 +85,7 @@ Pull Request는 언제든지 환영합니다!!
 
 ## 외부 강좌사이트
 * [inflearn](https://www.inflearn.com/all-courses2/) 프로그래밍관련 종합 강좌 사이트. 유/무료 :moneybag:
-* [T아카데미](https://tacademy.sktechx.com/live/player/listOnline.action) - T아카데미 개발용 종합 강좌. 회원가입 필수.
+* [T아카데미](https://tacademy.skplanet.com/live/player/listLecture.action) - T아카데미 개발용 종합 강좌. 회원가입 필수.
 * [Coursera](https://www.coursera.org) - 유명 대학들이 모여 만든 사이트. 컴퓨터공학, 생명공학, 수학, 언어등등 다양한 강좌 제공 :us:
 * [udemy](https://www.udemy.com/) - 강좌계의 스팀. 연쇄할인마. :us: :moneybag:
 * [edwith](http://www.edwith.org/) - 국내 대학들이 모여 만든 강좌 사이트. 회원가입후 강좌 이용가능.
